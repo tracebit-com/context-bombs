@@ -21,7 +21,8 @@ Models tested:
 | Kimi K2.6       | Novita AI |
 
 ### Why this matters
-Context bombs are a form of active defense that pairs deception (canaries) with disruption (guardrail-tripping content).  
-They turn an attacker's own guardrails into your kill switch.  
+Context bombs are a form of active defense that pairs deception (canaries) with disruption (guardrail-tripping content). They turn an attacker's own guardrails into your kill switch.  
+
+-----------
 
 **Full research:** [https://agentic.tracebit.com/context-bombs](https://agentic.tracebit.com/context-bombs)
