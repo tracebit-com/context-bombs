@@ -5,4 +5,4 @@
 
 Strings of the context bombs that can stop AI attackers by tripping their safety guardrails.
 
-**Tracebit research:** [https://agentic.tracebit.com/context-bombs/](https://agentic.tracebit.com/context-bombs)
+**Tracebit research:** [https://agentic.tracebit.com/context-bombs](https://agentic.tracebit.com/context-bombs)
