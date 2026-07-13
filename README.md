@@ -7,4 +7,4 @@
 When used as the content of canary resources in your environment, context bombs can both detect (raising an alert) and stop an offensive AI agent.  
 Effectiveness of those strings can vary by model provider: dangerous biological content stops the leading Western models, while politically sensitive content stops Chinese models served by Chinese providers.
 
-**Tracebit research:** [https://agentic.tracebit.com/context-bombs](https://agentic.tracebit.com/context-bombs)
+**Full research:** [https://agentic.tracebit.com/context-bombs](https://agentic.tracebit.com/context-bombs)
