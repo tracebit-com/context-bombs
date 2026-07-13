@@ -9,7 +9,7 @@ Effectiveness of those strings can vary by model provider: dangerous biological 
 
 ### How we tested context bombs
 Strings in this repo have been tested against five frontier models performing a red team engagement in a realistic AWS environment.  
-Deploying one single canary bomb inside the environment had a huge impact on stopping offensive AI agents. For instance, admin privilege escalation went from 57% of runs to 5%.  
+Deploying a single context bomb inside the environment (as an AWS secret) had a huge impact on stopping offensive AI agents. For instance, admin privilege escalation went from 57% of runs to 5%.  
 
 Models tested:
 | Model           | Provider  |
@@ -18,6 +18,6 @@ Models tested:
 | Gemini 3.1 Pro  | Google    |
 | GLM 5.2         | GMI Cloud |
 | DeepSeek 4 Pro  | DeepSeek  |
-| Kimi 2.6          | Novita AI |
+| Kimi K2.6       | Novita AI |
 
 **Full research:** [https://agentic.tracebit.com/context-bombs](https://agentic.tracebit.com/context-bombs)
