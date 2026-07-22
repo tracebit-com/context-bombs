@@ -15,6 +15,7 @@ Models tested:
 | Model           | Provider  |
 |-----------------|-----------|
 | Claude Opus 4.8 | Anthropic |
+| GPT 5.5         | OpenAI    |
 | Gemini 3.1 Pro  | Google    |
 | GLM 5.2         | GMI Cloud |
 | DeepSeek 4 Pro  | DeepSeek  |
